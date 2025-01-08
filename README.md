@@ -1,11 +1,10 @@
-###### NOTE:
+##### NOTE:
 
 #### User credentials
 
 #### USERNAME : rahul
 #### PASSWORD : rahul@2001
-
-
+----------------------------------------------------------------------------
 
 In this project let's build an **Nxt Assess App** by applying the concepts we have learned till now. This project allows you to practice the concepts and techniques learned till React Course and apply them in a concrete project.
 
